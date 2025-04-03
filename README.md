@@ -34,25 +34,13 @@
 </div>
                            <div id="results-inquiery" style="display:none;">
  <div class="results-inquiery row">
-
-Update index.html ok
-9 minutes ago
-                                <div class="col-md-6"><span>الاسم:</span>   جواد صادق احمد الحاج   </div>
-
-Ok
-16 minutes ago
+                                <div class="col-md-6"><span>الاسم:</span>عبد العزيز سعود عبد العزيز الزامل </div>
                                 
               <div class="col-md-6"><span>تاريخ إصدار تقرير الإجازة:</span> 02-03-2025</div>
                            <div class="col-md-6"><span>تبدأ من:</span> 02-03-2025</div>
                           <div class="col-md-6"><span>وحتى:</span> 02-03-2025</div>
                                 <div class="col-md-6"><span>المدة بالأيام:</span>1</div>
-
-Update index.html ok
-9 minutes ago
-                                <div class="col-md-6"><span>اسم الطبيب:</span>  جوادي جواد جواد  </div>
-
-Ok
-16 minutes ago
+                                <div class="col-md-6"><span>اسم الطبيب:</span> محمد عبد العزيز العنزي</div>
                                 <div class="col-md-6"><span>المسمى الوظيفي:</span> طبيب عام  </div>
                             </div>
                         </div>
@@ -91,3 +79,4 @@ Ok
 </script>
 
 <script src="https://www.drv.tw/inc/wd.js?s=yptdgelppgfplokym6glsq"></script></body>
+</html>
